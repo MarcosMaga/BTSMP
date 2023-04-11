@@ -47,8 +47,8 @@ Para usar mais de um motor, apenas será necessario instanciar mais um objeto `B
 **PINOUT: <br/>**
 **RPWM - Pin 9 <br/>**
 **LPWM - Pin 10 <br/>**
-**R_EN - VCC <br/>**
-**L_EN - VCC <br/>**
-**VCC  - Pin 9 <br/>**
+**R_EN - 5v <br/>**
+**L_EN - 5v <br/>**
+**VCC  - 5v <br/>**
 **GND  - GND <br/>**
 
